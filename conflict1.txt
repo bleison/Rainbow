@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello from Local
-=======
 Hello from remote again again
->>>>>>> b5467b2f4d2628022c2fc96250ae03e0f97d2802
